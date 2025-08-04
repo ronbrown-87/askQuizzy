@@ -1,0 +1,395 @@
+/* Bible Quiz Application - Artistic Bible Theme */
+
+/* Import Google Fonts for elegant typography */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Playfair+Display:wght@400;500;600;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap');
+
+/* Root variables for consistent theming */
+.root {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-background-color: #f8f6f0;
+}
+
+/* Parchment background with texture */
+.parchment-bg {
+    -fx-background-color: linear-gradient(to bottom right, #f9f7f1, #f5f2e8);
+    -fx-effect: dropshadow(gaussian, rgba(139, 69, 19, 0.1), 20, 0, 0, 0);
+}
+
+/* Gold gradient backgrounds */
+.gold-gradient {
+    -fx-background-color: linear-gradient(to bottom, #d4af37, #b8860b, #daa520);
+}
+
+.gold-gradient-hover {
+    -fx-background-color: linear-gradient(to bottom, #b8860b, #daa520, #d4af37);
+}
+
+/* Elegant title styling */
+.bible-title {
+    -fx-font-family: 'Playfair Display', serif;
+    -fx-font-size: 48px;
+    -fx-font-weight: 700;
+    -fx-text-fill: linear-gradient(to bottom, #8b4513, #654321);
+    -fx-effect: dropshadow(gaussian, rgba(139, 69, 19, 0.3), 10, 0, 0, 2);
+    -fx-stroke: #d4af37;
+    -fx-stroke-width: 0.5;
+}
+
+.bible-subtitle {
+    -fx-font-family: 'Crimson Text', serif;
+    -fx-font-size: 20px;
+    -fx-font-style: italic;
+    -fx-text-fill: #654321;
+    -fx-opacity: 0.8;
+}
+
+/* Decorative borders */
+.decorative-border {
+    -fx-border-color: linear-gradient(to right, #d4af37, #daa520, #d4af37);
+    -fx-border-width: 3px;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-background-color: rgba(255, 255, 255, 0.9);
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 10, 0, 0, 0);
+}
+
+/* Button styling */
+.bible-button {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 16px;
+    -fx-font-weight: 600;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #8b4513, #654321);
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 12 24;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 5, 0, 0, 1);
+}
+
+.bible-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #654321, #8b4513);
+    -fx-border-color: #daa520;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 8, 0, 0, 2);
+}
+
+.bible-button:pressed {
+    -fx-background-color: linear-gradient(to bottom, #654321, #8b4513);
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 3, 0, 0, 0);
+}
+
+/* Primary action button */
+.primary-button {
+    -fx-background-color: linear-gradient(to bottom, #28a745, #218838);
+    -fx-border-color: #20c997;
+}
+
+.primary-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #218838, #1e7e34);
+}
+
+/* Secondary action button */
+.secondary-button {
+    -fx-background-color: linear-gradient(to bottom, #007bff, #0056b3);
+    -fx-border-color: #17a2b8;
+}
+
+.secondary-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #0056b3, #004085);
+}
+
+/* Danger button */
+.danger-button {
+    -fx-background-color: linear-gradient(to bottom, #dc3545, #c82333);
+    -fx-border-color: #e74c3c;
+}
+
+.danger-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #c82333, #bd2130);
+}
+
+/* Question styling */
+.question-container {
+    -fx-background-color: rgba(255, 255, 255, 0.95);
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-border-color: linear-gradient(to right, #d4af37, #daa520);
+    -fx-border-width: 2px;
+    -fx-padding: 30px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 15, 0, 0, 0);
+}
+
+.question-text {
+    -fx-font-family: 'Crimson Text', serif;
+    -fx-font-size: 18px;
+    -fx-font-weight: 500;
+    -fx-text-fill: #2c1810;
+    -fx-line-spacing: 1.5;
+}
+
+.question-header {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: 600;
+    -fx-text-fill: #8b4513;
+    -fx-opacity: 0.8;
+}
+
+/* Option button styling */
+.option-button {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 16px;
+    -fx-font-weight: 500;
+    -fx-text-fill: #2c1810;
+    -fx-background-color: rgba(255, 255, 255, 0.9);
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-padding: 15 20;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 3, 0, 0, 0);
+}
+
+.option-button:hover {
+    -fx-background-color: rgba(255, 255, 255, 1);
+    -fx-border-color: #daa520;
+    -fx-border-width: 2px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.15), 5, 0, 0, 1);
+}
+
+.option-button:selected {
+    -fx-background-color: linear-gradient(to bottom, #d4af37, #daa520);
+    -fx-text-fill: white;
+    -fx-border-color: #8b4513;
+    -fx-border-width: 2px;
+}
+
+/* Correct answer styling */
+.correct-answer {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 16px;
+    -fx-font-weight: 500;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #28a745, #218838);
+    -fx-border-color: #20c997;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-padding: 15 20;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(40, 167, 69, 0.3), 8, 0, 0, 2);
+}
+
+/* Incorrect answer styling */
+.incorrect-answer {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 16px;
+    -fx-font-weight: 500;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #dc3545, #c82333);
+    -fx-border-color: #e74c3c;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-padding: 15 20;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(220, 53, 69, 0.3), 8, 0, 0, 2);
+}
+
+/* Timer styling */
+.timer-label {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 24px;
+    -fx-font-weight: 700;
+    -fx-text-fill: #8b4513;
+    -fx-background-color: linear-gradient(to bottom, #fff8dc, #f5f5dc);
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 8 16;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 0);
+}
+
+.timer-warning {
+    -fx-text-fill: #dc3545;
+    -fx-background-color: linear-gradient(to bottom, #ffe6e6, #ffcccc);
+    -fx-border-color: #dc3545;
+}
+
+/* Progress bar styling */
+.progress-bar {
+    -fx-background-color: rgba(255, 255, 255, 0.8);
+    -fx-background-radius: 10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+}
+
+.progress-bar .track {
+    -fx-background-color: transparent;
+}
+
+.progress-bar .bar {
+    -fx-background-color: linear-gradient(to right, #d4af37, #daa520, #d4af37);
+    -fx-background-radius: 8px;
+    -fx-border-radius: 8px;
+}
+
+/* Navigation styling */
+.navigation-button {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 14px;
+    -fx-font-weight: 600;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #8b4513, #654321);
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+    -fx-border-radius: 6px;
+    -fx-background-radius: 6px;
+    -fx-padding: 8 16;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 3, 0, 0, 0);
+}
+
+.navigation-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #654321, #8b4513);
+    -fx-border-color: #daa520;
+}
+
+.navigation-button:disabled {
+    -fx-opacity: 0.5;
+    -fx-cursor: default;
+}
+
+/* Score display styling */
+.score-display {
+    -fx-font-family: 'Playfair Display', serif;
+    -fx-font-size: 36px;
+    -fx-font-weight: 700;
+    -fx-text-fill: linear-gradient(to bottom, #8b4513, #654321);
+    -fx-effect: dropshadow(gaussian, rgba(139, 69, 19, 0.3), 10, 0, 0, 2);
+}
+
+.score-excellent {
+    -fx-text-fill: linear-gradient(to bottom, #28a745, #218838);
+}
+
+.score-good {
+    -fx-text-fill: linear-gradient(to bottom, #ffc107, #e0a800);
+}
+
+.score-poor {
+    -fx-text-fill: linear-gradient(to bottom, #dc3545, #c82333);
+}
+
+/* Decorative elements */
+.decorative-line {
+    -fx-background-color: linear-gradient(to right, transparent, #d4af37, transparent);
+    -fx-pref-height: 2px;
+    -fx-max-height: 2px;
+}
+
+/* Religious decorative elements */
+.religious-symbol {
+    -fx-font-size: 24px;
+    -fx-text-fill: #d4af37;
+    -fx-opacity: 0.8;
+}
+
+.religious-border {
+    -fx-border-color: linear-gradient(to right, #d4af37, #daa520, #d4af37);
+    -fx-border-width: 2px;
+    -fx-border-radius: 15px;
+    -fx-background-radius: 15px;
+    -fx-background-color: rgba(255, 255, 255, 0.95);
+    -fx-effect: dropshadow(gaussian, rgba(212, 175, 55, 0.3), 10, 0, 0, 0);
+}
+
+/* Enhanced button effects */
+.bible-button {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 16px;
+    -fx-font-weight: 600;
+    -fx-text-fill: white;
+    -fx-background-color: linear-gradient(to bottom, #8b4513, #654321);
+    -fx-border-color: #d4af37;
+    -fx-border-width: 2px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 12 24;
+    -fx-cursor: hand;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 5, 0, 0, 1);
+    -fx-transition: all 0.3s ease;
+}
+
+.bible-button:hover {
+    -fx-background-color: linear-gradient(to bottom, #654321, #8b4513);
+    -fx-border-color: #daa520;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 8, 0, 0, 2);
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}
+
+.bible-button:pressed {
+    -fx-background-color: linear-gradient(to bottom, #654321, #8b4513);
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.4), 3, 0, 0, 0);
+    -fx-scale-x: 0.95;
+    -fx-scale-y: 0.95;
+}
+
+/* Scroll bar styling */
+.scroll-bar {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: linear-gradient(to bottom, #d4af37, #daa520);
+    -fx-background-radius: 5px;
+}
+
+.scroll-bar .track {
+    -fx-background-color: rgba(255, 255, 255, 0.3);
+    -fx-background-radius: 5px;
+}
+
+/* Tooltip styling */
+.tooltip {
+    -fx-font-family: 'Source Sans Pro', sans-serif;
+    -fx-font-size: 12px;
+    -fx-background-color: rgba(44, 24, 16, 0.9);
+    -fx-text-fill: white;
+    -fx-border-color: #d4af37;
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+
+/* Animation keyframes for special effects */
+@keyframes golden-glow {
+    from { -fx-effect: dropshadow(gaussian, rgba(212, 175, 55, 0.5), 10, 0, 0, 0); }
+    to { -fx-effect: dropshadow(gaussian, rgba(212, 175, 55, 0.8), 15, 0, 0, 0); }
+}
+
+.golden-glow {
+    -fx-animation: golden-glow 2s ease-in-out infinite alternate;
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+    .bible-title {
+        -fx-font-size: 36px;
+    }
+    
+    .question-text {
+        -fx-font-size: 16px;
+    }
+    
+    .option-button {
+        -fx-font-size: 14px;
+        -fx-padding: 12 16;
+    }
+}

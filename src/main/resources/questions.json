@@ -1,0 +1,1602 @@
+[
+  {
+    "question": "What is the shortest verse in the Bible?",
+    "option_a": "God is love.",
+    "option_b": "Rejoice always.",
+    "option_c": "Jesus wept.",
+    "option_d": "Pray without ceasing.",
+    "answer": "C"
+  },
+  {
+    "question": "Who was the first man created by God?",
+    "option_a": "Abraham",
+    "option_b": "Noah",
+    "option_c": "Moses",
+    "option_d": "Adam",
+    "answer": "D"
+  },
+  {
+    "question": "What is the last book of the New Testament?",
+    "option_a": "Revelation",
+    "option_b": "Jude",
+    "option_c": "Acts",
+    "option_d": "Romans",
+    "answer": "A"
+  },
+  {
+    "question": "Who led the Israelites out of Egypt?",
+    "option_a": "Aaron",
+    "option_b": "Joshua",
+    "option_c": "Moses",
+    "option_d": "David",
+    "answer": "C"
+  },
+  {
+    "question": "How many days did it rain during the flood?",
+    "option_a": "30",
+    "option_b": "40",
+    "option_c": "50",
+    "option_d": "60",
+    "answer": "B"
+  },
+  {
+    "question": "What did God create on the first day?",
+    "option_a": "The land",
+    "option_b": "The stars",
+    "option_c": "Light",
+    "option_d": "Animals",
+    "answer": "C"
+  },
+  {
+    "question": "Who was swallowed by a great fish?",
+    "option_a": "Jonah",
+    "option_b": "Daniel",
+    "option_c": "Noah",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Which king was known for his wisdom?",
+    "option_a": "Saul",
+    "option_b": "David",
+    "option_c": "Solomon",
+    "option_d": "Hezekiah",
+    "answer": "C"
+  },
+  {
+    "question": "What is the first commandment?",
+    "option_a": "Honor your parents",
+    "option_b": "Do not steal",
+    "option_c": "Love your neighbor",
+    "option_d": "Have no other gods before Me",
+    "answer": "D"
+  },
+  {
+    "question": "Who was the strongest man in the Bible?",
+    "option_a": "David",
+    "option_b": "Samson",
+    "option_c": "Saul",
+    "option_d": "Goliath",
+    "answer": "B"
+  },
+  {
+    "question": "Who was present in Jerusalem during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Moses",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Solomon",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Peter",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Abraham",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Abraham",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "David",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Abraham",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Paul",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "Abraham",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Peter",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Elijah",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the flood?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Peter",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Paul",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "David",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "Peter",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "David",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Peter",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Noah",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "John",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "John",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "David",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Abraham",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Solomon",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "Moses",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Solomon",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Elijah",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Abraham",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Jesus",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Moses",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "David",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "David",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Jesus",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Moses",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the flood?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Elijah",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Moses",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Paul",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "David",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Solomon",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "John",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "David",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Paul",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Peter",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Jesus",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Paul",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "John",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Elijah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Jesus",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Elijah",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "David",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Elijah",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Jesus",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Noah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Jesus",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "Elijah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Peter",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Jesus",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Peter",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Abraham",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "David",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Solomon",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Noah",
+    "option_c": "Solomon",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "David",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "David",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "David",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Peter",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Solomon",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Moses",
+    "option_c": "Elijah",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "Peter",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Solomon",
+    "option_c": "John",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the creation?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Noah",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Solomon",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Abraham",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "John",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Abraham",
+    "option_c": "John",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "David",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Abraham",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the crucifixion?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "David",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the flood?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "Noah",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the creation?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Abraham",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the Passover?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "David",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the Exodus?",
+    "option_a": "Jesus",
+    "option_b": "Jesus",
+    "option_c": "John",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the resurrection?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Noah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the ascension?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the Pentecost?",
+    "option_a": "Jesus",
+    "option_b": "Paul",
+    "option_c": "Peter",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the fall of Jericho?",
+    "option_a": "Jesus",
+    "option_b": "John",
+    "option_c": "Jesus",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nineveh during the fiery furnace?",
+    "option_a": "Jesus",
+    "option_b": "Peter",
+    "option_c": "Abraham",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Solomon",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the flood?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "John",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the creation?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Solomon",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Passover?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Peter",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Jesus",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Noah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Jesus",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "David",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Moses",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jerusalem during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Abraham",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "John",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the flood?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Noah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the creation?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Moses",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Noah",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "John",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Paul",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Noah",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "David",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "John",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Nazareth during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Moses",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the flood?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "David",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the creation?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Elijah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Noah",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Moses",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Jesus",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Jesus",
+    "option_c": "Jesus",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Galilee during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Abraham",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Paul",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the flood?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Moses",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the creation?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "David",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Passover?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Noah",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "David",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the ascension?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Moses",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Abraham",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Egypt during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Jesus",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Noah",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the flood?",
+    "option_a": "Moses",
+    "option_b": "Jesus",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the creation?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Jesus",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Paul",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Peter",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Jesus",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Abraham",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Elijah",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Babylon during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Moses",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Elijah",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the flood?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Jesus",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the creation?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Abraham",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Jesus",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Noah",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Moses",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Abraham",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Peter",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Elijah",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Bethlehem during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Noah",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Elijah",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the flood?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Jesus",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the creation?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "David",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "David",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Elijah",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Solomon",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Solomon",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Canaan during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Solomon",
+    "option_c": "Jesus",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Paul",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the flood?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Moses",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the creation?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "Abraham",
+    "option_d": "David",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Passover?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Elijah",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "John",
+    "option_c": "Abraham",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "Elijah",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Noah",
+    "option_d": "Moses",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Elijah",
+    "option_c": "Jesus",
+    "option_d": "Solomon",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "John",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Mount Sinai during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "Peter",
+    "option_d": "John",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the crucifixion?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "Solomon",
+    "option_d": "Peter",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the flood?",
+    "option_a": "Moses",
+    "option_b": "Peter",
+    "option_c": "David",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the creation?",
+    "option_a": "Moses",
+    "option_b": "Noah",
+    "option_c": "Elijah",
+    "option_d": "Abraham",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Passover?",
+    "option_a": "Moses",
+    "option_b": "Jesus",
+    "option_c": "John",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Exodus?",
+    "option_a": "Moses",
+    "option_b": "Paul",
+    "option_c": "Solomon",
+    "option_d": "Paul",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the resurrection?",
+    "option_a": "Moses",
+    "option_b": "David",
+    "option_c": "John",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the ascension?",
+    "option_a": "Moses",
+    "option_b": "Jesus",
+    "option_c": "Paul",
+    "option_d": "Noah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the Pentecost?",
+    "option_a": "Moses",
+    "option_b": "Solomon",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the fall of Jericho?",
+    "option_a": "Moses",
+    "option_b": "Solomon",
+    "option_c": "Solomon",
+    "option_d": "Jesus",
+    "answer": "A"
+  },
+  {
+    "question": "Who was present in Jordan during the fiery furnace?",
+    "option_a": "Moses",
+    "option_b": "Moses",
+    "option_c": "John",
+    "option_d": "John",
+    "answer": "A"
+  }
+]

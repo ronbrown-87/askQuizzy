@@ -1,0 +1,252 @@
+﻿[
+  {
+    "q1": "Who was the first king of Israel, anointed by Samuel?",
+    "a1": ["Saul", "David", "Solomon", "Rehoboam"],
+    "correct": "Saul"
+  },
+  {
+    "q2": "In what city was Jesus born?",
+    "a2": ["Bethlehem", "Nazareth", "Jerusalem", "Capernaum"],
+    "correct": "Bethlehem"
+  },
+  {
+    "q3": "Who interpreted Pharaoh's dreams in Egypt?",
+    "a3": ["Joseph", "Moses", "Aaron", "Jacob"],
+    "correct": "Joseph"
+  },
+  {
+    "q4": "Which prophet was taken up to heaven in a whirlwind?",
+    "a4": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+    "correct": "Elijah"
+  },
+  {
+    "q5": "In the book of Acts, Cornelius sent men to Joppa to look for ______",
+    "a5": ["Simon Peter", "Paul", "Barnabas", "John"],
+    "correct": "Simon Peter"
+  },
+  {
+    "q6": "Who was known for his wisdom and built the temple in Jerusalem?",
+    "a6": ["Solomon", "David", "Saul", "Josiah"],
+    "correct": "Solomon"
+  },
+  {
+    "q7": "Who denied Jesus three times before the rooster crowed?",
+    "a7": ["Peter", "John", "James", "Andrew"],
+    "correct": "Peter"
+  },
+  {
+    "q8": "Which disciple was a tax collector before following Jesus?",
+    "a8": ["Matthew", "Thomas", "Philip", "Bartholomew"],
+    "correct": "Matthew"
+  },
+  {
+    "q9": "What river did John the Baptist baptize people in?",
+    "a9": ["Jordan", "Nile", "Euphrates", "Tigris"],
+    "correct": "Jordan"
+  },
+  {
+    "q10": "Who was thrown into the lion’s den for praying to God?",
+    "a10": ["Daniel", "David", "Samuel", "Solomon"],
+    "correct": "Daniel"
+  },
+  {
+    "q11": "Which woman became queen and saved her people from destruction?",
+    "a11": ["Esther", "Ruth", "Mary", "Martha"],
+    "correct": "Esther"
+  },
+  {
+    "q12": "Who betrayed Jesus for thirty pieces of silver?",
+    "a12": ["Judas", "Peter", "John", "Thomas"],
+    "correct": "Judas"
+  },
+  {
+    "q13": "Who led the Israelites out of slavery in Egypt?",
+    "a13": ["Moses", "Aaron", "Joshua", "Jacob"],
+    "correct": "Moses"
+  },
+  {
+    "q14": "Where did Jesus turn water into wine?",
+    "a14": ["Cana", "Jericho", "Bethany", "Nazareth"],
+    "correct": "Cana"
+  },
+  {
+    "q15": "Who was swallowed by a great fish?",
+    "a15": ["Jonah", "Noah", "Daniel", "Job"],
+    "correct": "Jonah"
+  },
+  {
+    "q16": "Who was the mother of Samuel?",
+    "a16": ["Hannah", "Sarah", "Rebecca", "Rachel"],
+    "correct": "Hannah"
+  },
+  {
+    "q17": "What did God create on the first day?",
+    "a17": ["Light", "Land", "Plants", "Animals"],
+    "correct": "Light"
+  },
+  {
+    "q18": "Who is called the 'father of faith'?",
+    "a18": ["Abraham", "Isaac", "Jacob", "Moses"],
+    "correct": "Abraham"
+  },
+  {
+    "q19": "Which apostle is known for doubting Jesus's resurrection?",
+    "a19": ["Thomas", "Peter", "James", "Philip"],
+    "correct": "Thomas"
+  },
+  {
+    "q20": "Who was the first person to see Jesus after His resurrection?",
+    "a20": ["Mary Magdalene", "Peter", "John", "James"],
+    "correct": "Mary Magdalene"
+  },
+  {
+    "q21": "Which Old Testament character had a coat of many colors?",
+    "a21": ["Joseph", "David", "Samuel", "Abraham"],
+    "correct": "Joseph"
+  },
+  {
+    "q22": "Who was the strong man betrayed by Delilah?",
+    "a22": ["Samson", "Saul", "David", "Solomon"],
+    "correct": "Samson"
+  },
+  {
+    "q23": "Which book comes first in the New Testament?",
+    "a23": ["Matthew", "Mark", "Luke", "John"],
+    "correct": "Matthew"
+  },
+  {
+    "q24": "Who was Paul's companion on his first missionary journey?",
+    "a24": ["Barnabas", "Silas", "Timothy", "John Mark"],
+    "correct": "Barnabas"
+  },
+  {
+    "q25": "What was the name of Ruth's mother-in-law?",
+    "a25": ["Naomi", "Sarah", "Hannah", "Rebecca"],
+    "correct": "Naomi"
+  },
+  {
+    "q26": "Who built an ark to survive the flood?",
+    "a26": ["Noah", "Abraham", "Moses", "Job"],
+    "correct": "Noah"
+  },
+  {
+    "q27": "Who interpreted King Nebuchadnezzar’s dream?",
+    "a27": ["Daniel", "Joseph", "David", "Solomon"],
+    "correct": "Daniel"
+  },
+  {
+    "q28": "Who was the oldest man recorded in the Bible?",
+    "a28": ["Methuselah", "Adam", "Noah", "Enoch"],
+    "correct": "Methuselah"
+  },
+  {
+    "q29": "Which apostle wrote most of the New Testament letters?",
+    "a29": ["Paul", "Peter", "John", "James"],
+    "correct": "Paul"
+  },
+  {
+    "q30": "Who helped Jesus carry His cross?",
+    "a30": ["Simon of Cyrene", "John", "Peter", "Joseph of Arimathea"],
+    "correct": "Simon of Cyrene"
+  },
+  {
+    "q31": "Where did Elijah challenge the prophets of Baal?",
+    "a31": ["Mount Carmel", "Mount Sinai", "Mount Zion", "Mount Hermon"],
+    "correct": "Mount Carmel"
+  },
+  {
+    "q32": "Who was the first martyr in the New Testament?",
+    "a32": ["Stephen", "James", "Peter", "Paul"],
+    "correct": "Stephen"
+  },
+  {
+    "q33": "What food did God provide the Israelites in the desert?",
+    "a33": ["Manna", "Quail", "Bread", "Meat"],
+    "correct": "Manna"
+  },
+  {
+    "q34": "Who wrote the Book of Revelation?",
+    "a34": ["John", "Paul", "Peter", "James"],
+    "correct": "John"
+  },
+  {
+    "q35": "Who was thrown into a fiery furnace but survived?",
+    "a35": ["Shadrach, Meshach, Abednego", "Daniel, Ezekiel, Jeremiah", "Peter, John, James", "Joshua, Caleb, Moses"],
+    "correct": "Shadrach, Meshach, Abednego"
+  },
+  {
+    "q36": "Who was the Roman governor who sentenced Jesus to death?",
+    "a36": ["Pontius Pilate", "Herod", "Caesar", "Festus"],
+    "correct": "Pontius Pilate"
+  },
+  {
+    "q37": "Who was the first man created by God?",
+    "a37": ["Adam", "Noah", "Abraham", "Moses"],
+    "correct": "Adam"
+  },
+  {
+    "q38": "Who is known as the 'weeping prophet'?",
+    "a38": ["Jeremiah", "Isaiah", "Ezekiel", "Daniel"],
+    "correct": "Jeremiah"
+  },
+  {
+    "q39": "Who killed Goliath?",
+    "a39": ["David", "Saul", "Jonathan", "Samuel"],
+    "correct": "David"
+  },
+  {
+    "q40": "Who was Moses's brother?",
+    "a40": ["Aaron", "Joshua", "Caleb", "Joseph"],
+    "correct": "Aaron"
+  },
+  {
+    "q41": "Who wrote many of the Psalms?",
+    "a41": ["David", "Solomon", "Asaph", "Moses"],
+    "correct": "David"
+  },
+  {
+    "q42": "Who was the father of John the Baptist?",
+    "a42": ["Zechariah", "Joseph", "Joachim", "Jairus"],
+    "correct": "Zechariah"
+  },
+  {
+    "q43": "Who asked Jesus, 'What is truth?'",
+    "a43": ["Pontius Pilate", "Herod", "Peter", "Caiaphas"],
+    "correct": "Pontius Pilate"
+  },
+  {
+    "q44": "Who was the king when Daniel was in the lions’ den?",
+    "a44": ["Darius", "Nebuchadnezzar", "Cyrus", "Belshazzar"],
+    "correct": "Darius"
+  },
+  {
+    "q45": "Who was the first woman created by God?",
+    "a45": ["Eve", "Sarah", "Rachel", "Mary"],
+    "correct": "Eve"
+  },
+  {
+    "q46": "Who saw a vision of a ladder reaching to heaven?",
+    "a46": ["Jacob", "Isaac", "Abraham", "Joseph"],
+    "correct": "Jacob"
+  },
+  {
+    "q47": "Which prophet confronted King David about his sin?",
+    "a47": ["Nathan", "Samuel", "Elijah", "Isaiah"],
+    "correct": "Nathan"
+  },
+  {
+    "q48": "Who was married to Priscilla and worked with Paul?",
+    "a48": ["Aquila", "Apollos", "Barnabas", "Silas"],
+    "correct": "Aquila"
+  },
+  {
+    "q49": "Who wrote the majority of Proverbs?",
+    "a49": ["Solomon", "David", "Moses", "Isaiah"],
+    "correct": "Solomon"
+  },
+  {
+    "q50": "Who did Jesus raise from the dead after four days?",
+    "a50": ["Lazarus", "Jairus’s daughter", "Widow’s son", "Tabitha"],
+    "correct": "Lazarus"
+  }
+]

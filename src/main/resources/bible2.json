@@ -1,0 +1,1618 @@
+[
+  {
+    "question": "How many books are there in the Protestant Bible?",
+    "option_a": "39",
+    "option_b": "66",
+    "option_c": "27",
+    "option_d": "73",
+    "answer": "option_b"
+  },
+  {
+    "question": "How many books are in the New Testament?",
+    "option_a": "32",
+    "option_b": "66",
+    "option_c": "27",
+    "option_d": "39",
+    "answer": "option_c"
+  },
+  {
+    "question": "How many books are in the Old Testament?",
+    "option_a": "50",
+    "option_b": "27",
+    "option_c": "39",
+    "option_d": "66",
+    "answer": "option_c"
+  },
+  {
+    "question": "Which is the first book of the Old Testament?",
+    "option_a": "Genesis",
+    "option_b": "Exodus",
+    "option_c": "Matthew",
+    "option_d": "Revelation",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which is the last book of the New Testament?",
+    "option_a": "Jude",
+    "option_b": "Amos",
+    "option_c": "Malachi",
+    "option_d": "Revelation",
+    "answer": "option_d"
+  },
+  {
+    "question": "Which book comes immediately after Matthew in the New Testament?",
+    "option_a": "Acts",
+    "option_b": "Luke",
+    "option_c": "Mark",
+    "option_d": "John",
+    "answer": "option_c"
+  },
+  {
+    "question": "Which of these is not one of the four Gospels?",
+    "option_a": "Matthew",
+    "option_b": "Mark",
+    "option_c": "Luke",
+    "option_d": "Acts",
+    "answer": "option_d"
+  },
+  {
+    "question": "Which book of the Bible contains the story of David and Goliath?",
+    "option_a": "1 Samuel",
+    "option_b": "2 Samuel",
+    "option_c": "1 Kings",
+    "option_d": "2 Chronicles",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Gospel is traditionally listed first in the New Testament?",
+    "option_a": "Matthew",
+    "option_b": "Luke",
+    "option_c": "Mark",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament book is known for its wisdom literature and is attributed to Solomon?",
+    "option_a": "Proverbs",
+    "option_b": "Genesis",
+    "option_c": "Isaiah",
+    "option_d": "Ezra",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is traditionally credited as the author of the Book of Genesis?",
+    "option_a": "Moses",
+    "option_b": "Abraham",
+    "option_c": "David",
+    "option_d": "Matthew",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is traditionally considered the author of the Psalms?",
+    "option_a": "David",
+    "option_b": "Solomon",
+    "option_c": "Isaiah",
+    "option_d": "Paul",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is traditionally known as the author of the Acts of the Apostles?",
+    "option_a": "Luke",
+    "option_b": "John",
+    "option_c": "Paul",
+    "option_d": "Mark",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is traditionally the author of the Gospel of John?",
+    "option_a": "John",
+    "option_b": "Luke",
+    "option_c": "Peter",
+    "option_d": "James",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is the traditional author of the epistle to the Romans?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "John",
+    "option_d": "Barnabas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is believed to have written the Book of Revelation?",
+    "option_a": "John",
+    "option_b": "Paul",
+    "option_c": "Peter",
+    "option_d": "Jude",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Apostle is credited with writing most of the New Testament letters?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "James",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is the author of the Book of Ecclesiastes, according to tradition?",
+    "option_a": "Solomon",
+    "option_b": "David",
+    "option_c": "Moses",
+    "option_d": "Ezra",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the first man created by God?",
+    "option_a": "Adam",
+    "option_b": "Noah",
+    "option_c": "Enoch",
+    "option_d": "Abraham",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the first woman according to the Bible?",
+    "option_a": "Eve",
+    "option_b": "Sarah",
+    "option_c": "Rebekah",
+    "option_d": "Rachel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Noah's father?",
+    "option_a": "Lamech",
+    "option_b": "Methuselah",
+    "option_c": "Enoch",
+    "option_d": "Abraham",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the oldest man recorded in the Bible?",
+    "option_a": "Methuselah",
+    "option_b": "Noah",
+    "option_c": "Adam",
+    "option_d": "Enoch",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many sons did Jacob (Israel) have?",
+    "option_a": "12",
+    "option_b": "10",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which of Jacob's sons was sold into slavery in Egypt?",
+    "option_a": "Joseph",
+    "option_b": "Benjamin",
+    "option_c": "Judah",
+    "option_d": "Levi",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Abraham's son whom God asked him to sacrifice?",
+    "option_a": "Isaac",
+    "option_b": "Ishmael",
+    "option_c": "Esau",
+    "option_d": "Jacob",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Abraham's wife?",
+    "option_a": "Sarah",
+    "option_b": "Hagar",
+    "option_c": "Rebekah",
+    "option_d": "Leah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Isaac's mother?",
+    "option_a": "Sarah",
+    "option_b": "Rebekah",
+    "option_c": "Leah",
+    "option_d": "Hannah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the mother of Jacob and Esau?",
+    "option_a": "Rebekah",
+    "option_b": "Rachel",
+    "option_c": "Sarah",
+    "option_d": "Hagar",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which of these was not one of Abraham's sons?",
+    "option_a": "Jacob",
+    "option_b": "Isaac",
+    "option_c": "Ishmael",
+    "option_d": "Midian",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which city did Abraham live in before traveling to Canaan?",
+    "option_a": "Ur",
+    "option_b": "Jerusalem",
+    "option_c": "Babylon",
+    "option_d": "Nineveh",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who had a dream of a ladder reaching to heaven?",
+    "option_a": "Jacob",
+    "option_b": "Joseph",
+    "option_c": "Daniel",
+    "option_d": "Isaiah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who interpreted Pharaoh's dreams in Egypt, rising to power?",
+    "option_a": "Joseph",
+    "option_b": "Moses",
+    "option_c": "Daniel",
+    "option_d": "Noah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who led the Israelites out of Egypt?",
+    "option_a": "Moses",
+    "option_b": "Aaron",
+    "option_c": "Joshua",
+    "option_d": "Abraham",
+    "answer": "option_a"
+  },
+  {
+    "question": "What did Moses see on Mount Sinai that was on fire but not consumed?",
+    "option_a": "A burning bush",
+    "option_b": "A shining star",
+    "option_c": "A fiery chariot",
+    "option_d": "An angel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Moses' brother who spoke for him?",
+    "option_a": "Aaron",
+    "option_b": "Joshua",
+    "option_c": "Caleb",
+    "option_d": "Samuel",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many plagues did God send upon Egypt?",
+    "option_a": "10",
+    "option_b": "7",
+    "option_c": "12",
+    "option_d": "3",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the last of the Ten Plagues of Egypt?",
+    "option_a": "Death of the firstborn",
+    "option_b": "Darkness",
+    "option_c": "Locusts",
+    "option_d": "Hail",
+    "answer": "option_a"
+  },
+  {
+    "question": "What miraculous food did God provide the Israelites in the desert?",
+    "option_a": "Manna",
+    "option_b": "Quail",
+    "option_c": "Bread from Heaven",
+    "option_d": "Rain",
+    "answer": "option_a"
+  },
+  {
+    "question": "What body of water did the Israelites cross to enter the Promised Land?",
+    "option_a": "Jordan River",
+    "option_b": "Red Sea",
+    "option_c": "Dead Sea",
+    "option_d": "Lake Galilee",
+    "answer": "option_a"
+  },
+  {
+    "question": "What two items were placed in the Ark of the Covenant?",
+    "option_a": "Tablets of the Ten Commandments and manna",
+    "option_b": "Tabernacle and oil",
+    "option_c": "Golden Lampstand and Aaron's staff",
+    "option_d": "Scroll of Isaiah and priestly garments",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who received the Ten Commandments from God on Mount Sinai?",
+    "option_a": "Moses",
+    "option_b": "Joshua",
+    "option_c": "Aaron",
+    "option_d": "Noah",
+    "answer": "option_a"
+  },
+  {
+    "question": "What did Moses strike to produce water for the Israelites in the desert?",
+    "option_a": "Rock",
+    "option_b": "Tree",
+    "option_c": "Sand",
+    "option_d": "Cloud",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the first king of the united Kingdom of Israel?",
+    "option_a": "Saul",
+    "option_b": "David",
+    "option_c": "Solomon",
+    "option_d": "Rehoboam",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who anointed David as king of Israel?",
+    "option_a": "Samuel",
+    "option_b": "Nathan",
+    "option_c": "Elijah",
+    "option_d": "Moses",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which king of Israel was known for his wisdom and building the Temple?",
+    "option_a": "Solomon",
+    "option_b": "David",
+    "option_c": "Hezekiah",
+    "option_d": "Saul",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the prophet that confronted King David over his adultery with Bathsheba?",
+    "option_a": "Nathan",
+    "option_b": "Samuel",
+    "option_c": "Gad",
+    "option_d": "Elijah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament prophet was taken up to heaven in a whirlwind?",
+    "option_a": "Elijah",
+    "option_b": "Elisha",
+    "option_c": "Isaiah",
+    "option_d": "Jeremiah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who succeeded Elijah as a prophet of Israel?",
+    "option_a": "Elisha",
+    "option_b": "Elijah",
+    "option_c": "Isaiah",
+    "option_d": "Jeremiah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the prophet known for the vision of the valley of dry bones?",
+    "option_a": "Ezekiel",
+    "option_b": "Isaiah",
+    "option_c": "Jeremiah",
+    "option_d": "Daniel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which prophet famously preached to the people of Nineveh for repentance?",
+    "option_a": "Jonah",
+    "option_b": "Isaiah",
+    "option_c": "Jeremiah",
+    "option_d": "Ezekiel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament figure was thrown into a den of lions by a Babylonian king?",
+    "option_a": "Daniel",
+    "option_b": "Shadrach",
+    "option_c": "Moses",
+    "option_d": "Elijah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which king saw the writing on the wall in the Book of Daniel?",
+    "option_a": "Nebuchadnezzar",
+    "option_b": "Belshazzar",
+    "option_c": "Cyrus",
+    "option_d": "Darius",
+    "answer": "option_b"
+  },
+  {
+    "question": "Which prophetess and judge led Israel to victory under Barak?",
+    "option_a": "Deborah",
+    "option_b": "Esther",
+    "option_c": "Miriam",
+    "option_d": "Huldah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Israelite judge killed the Midianite army with just 300 men?",
+    "option_a": "Gideon",
+    "option_b": "Ehud",
+    "option_c": "Samson",
+    "option_d": "Saul",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which judge defeated the Moabite King Eglon in the book of Judges?",
+    "option_a": "Ehud",
+    "option_b": "Gideon",
+    "option_c": "Samson",
+    "option_d": "Deborah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which judge of Israel killed a thousand Philistines with the jawbone of an ass?",
+    "option_a": "Samson",
+    "option_b": "Gideon",
+    "option_c": "Ehud",
+    "option_d": "Barak",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Philistine woman betrayed Samson by cutting his hair?",
+    "option_a": "Delilah",
+    "option_b": "Jael",
+    "option_c": "Jezebel",
+    "option_d": "Lydia",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which queen saved her people from a planned genocide in the Book of Esther?",
+    "option_a": "Esther",
+    "option_b": "Deborah",
+    "option_c": "Miriam",
+    "option_d": "Hannah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the Persian king that Esther married?",
+    "option_a": "Ahasuerus",
+    "option_b": "Nebuchadnezzar",
+    "option_c": "Darius",
+    "option_d": "Xerxes",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which judge of Israel was known for defeating an army with trumpets and jars of oil?",
+    "option_a": "Gideon",
+    "option_b": "Samson",
+    "option_c": "Barak",
+    "option_d": "Saul",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who baptized Jesus in the Jordan River?",
+    "option_a": "John the Baptist",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "Moses",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the Roman governor who sentenced Jesus to be crucified?",
+    "option_a": "Pontius Pilate",
+    "option_b": "Herod",
+    "option_c": "Nero",
+    "option_d": "Tiberius",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "option_a": "Mary Magdalene",
+    "option_b": "Peter",
+    "option_c": "John",
+    "option_d": "Thomas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who carried the cross for Jesus on the way to the crucifixion?",
+    "option_a": "Simon of Cyrene",
+    "option_b": "John",
+    "option_c": "Peter",
+    "option_d": "Matthew",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which disciple is known as the 'Doubter' because he doubted Jesus' resurrection until he saw Him?",
+    "option_a": "Thomas",
+    "option_b": "Peter",
+    "option_c": "Judas",
+    "option_d": "James",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was a tax collector before becoming one of Jesus' twelve apostles?",
+    "option_a": "Matthew",
+    "option_b": "Peter",
+    "option_c": "James",
+    "option_d": "Andrew",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is traditionally believed to have written the Acts of the Apostles?",
+    "option_a": "Luke",
+    "option_b": "John",
+    "option_c": "Peter",
+    "option_d": "Paul",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which apostle wrote many letters and started with Saul in the book of Acts?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "James",
+    "option_d": "Barnabas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the first Christian martyr recorded in the New Testament?",
+    "option_a": "Stephen",
+    "option_b": "James",
+    "option_c": "Peter",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who replaced Judas Iscariot as an apostle?",
+    "option_a": "Matthias",
+    "option_b": "Barsabbas",
+    "option_c": "Joseph",
+    "option_d": "Apollos",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the elder brother of James, son of Zebedee?",
+    "option_a": "John",
+    "option_b": "Andrew",
+    "option_c": "Peter",
+    "option_d": "Philip",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which apostle was a fisherman and the brother of Andrew?",
+    "option_a": "Peter",
+    "option_b": "James",
+    "option_c": "Matthew",
+    "option_d": "Philip",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which apostle wrote the Gospel of John?",
+    "option_a": "John",
+    "option_b": "Luke",
+    "option_c": "Matthew",
+    "option_d": "Mark",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which apostle denied Jesus three times before the rooster crowed?",
+    "option_a": "Peter",
+    "option_b": "John",
+    "option_c": "Matthew",
+    "option_d": "Thomas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was released instead of Jesus on the night of the crucifixion?",
+    "option_a": "Barabbas",
+    "option_b": "Stephen",
+    "option_c": "Lazarus",
+    "option_d": "Nicodemus",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who appeared with Moses during the Transfiguration of Jesus on the mountain?",
+    "option_a": "Elijah",
+    "option_b": "Peter",
+    "option_c": "John",
+    "option_d": "Gabriel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is known as the tax collector turned apostle who also wrote an epistle to the Romans?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "Matthew",
+    "option_d": "Barnabas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was king of Judea at the time of Jesus' birth, known for the massacre of the innocents?",
+    "option_a": "Herod",
+    "option_b": "Caesar Augustus",
+    "option_c": "Pharisees",
+    "option_d": "Herod Agrippa",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is the 'beloved disciple' traditionally identified in the Gospel of John?",
+    "option_a": "John",
+    "option_b": "Peter",
+    "option_c": "James",
+    "option_d": "Andrew",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the apostle that Jesus named Cephas, meaning 'rock'?",
+    "option_a": "Peter",
+    "option_b": "James",
+    "option_c": "Andrew",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which apostle is mentioned as writing the book of Revelation on the island of Patmos?",
+    "option_a": "John",
+    "option_b": "Peter",
+    "option_c": "Paul",
+    "option_d": "James",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the first miracle of Jesus recorded in the Gospels?",
+    "option_a": "Turning water into wine",
+    "option_b": "Feeding 5,000",
+    "option_c": "Calming a storm",
+    "option_d": "Healing a blind man",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many loaves and fish did Jesus use to feed 5,000 men?",
+    "option_a": "Seven loaves and five fish",
+    "option_b": "Five loaves and two fish",
+    "option_c": "Four loaves and four fish",
+    "option_d": "Three loaves and two fish",
+    "answer": "option_b"
+  },
+  {
+    "question": "Who was raised from the dead by Jesus after being dead for four days?",
+    "option_a": "Lazarus",
+    "option_b": "Jairus's daughter",
+    "option_c": "Dorcas",
+    "option_d": "Tabitha",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which event in the New Testament is celebrated on Pentecost?",
+    "option_a": "The Holy Spirit descending on the apostles",
+    "option_b": "Jesus ascending into heaven",
+    "option_c": "The first church council",
+    "option_d": "The giving of the Law at Sinai",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which disciple walked on water toward Jesus but began to sink?",
+    "option_a": "Peter",
+    "option_b": "Thomas",
+    "option_c": "James",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened to the curtain of the temple when Jesus died on the cross?",
+    "option_a": "It was torn in two from top to bottom",
+    "option_b": "It turned to dust",
+    "option_c": "It caught fire",
+    "option_d": "It remained unchanged",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Saul on the road to Damascus, blinded by a bright light and converted into which apostle?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "Thomas",
+    "option_d": "Barnabas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament prophet appears with Moses at the Transfiguration of Jesus?",
+    "option_a": "Elijah",
+    "option_b": "Isaiah",
+    "option_c": "Jeremiah",
+    "option_d": "Ezekiel",
+    "answer": "option_a"
+  },
+  {
+    "question": "At what event did Jesus say 'Father, into your hands I commit my spirit'?",
+    "option_a": "Crucifixion",
+    "option_b": "Last Supper",
+    "option_c": "Ascension",
+    "option_d": "Baptism",
+    "answer": "option_a"
+  },
+  {
+    "question": "What is the shortest verse in the Bible?",
+    "option_a": "Jesus wept",
+    "option_b": "Rejoice always",
+    "option_c": "Love is patient",
+    "option_d": "The Lord is my shepherd",
+    "answer": "option_a"
+  },
+  {
+    "question": "What sign did God set as a covenant after the flood in Noah's time?",
+    "option_a": "Rainbow",
+    "option_b": "Dove",
+    "option_c": "Fire",
+    "option_d": "Ark",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was given a coat of many colors by his father Jacob?",
+    "option_a": "Joseph",
+    "option_b": "Benjamin",
+    "option_c": "Esau",
+    "option_d": "Reuben",
+    "answer": "option_a"
+  },
+  {
+    "question": "What language were most of the Old Testament scriptures written in?",
+    "option_a": "Hebrew",
+    "option_b": "Greek",
+    "option_c": "Aramaic",
+    "option_d": "Latin",
+    "answer": "option_a"
+  },
+  {
+    "question": "What language were most of the New Testament scriptures written in?",
+    "option_a": "Greek",
+    "option_b": "Hebrew",
+    "option_c": "Latin",
+    "option_d": "Aramaic",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is called the 'Father of Faith' in the Bible?",
+    "option_a": "Abraham",
+    "option_b": "Isaac",
+    "option_c": "Noah",
+    "option_d": "Adam",
+    "answer": "option_a"
+  },
+  {
+    "question": "What object did God use to lead the Israelites by day and by night in the wilderness?",
+    "option_a": "Pillar of cloud by day and pillar of fire by night",
+    "option_b": "Rainbow",
+    "option_c": "Ark of the Covenant",
+    "option_d": "Tabernacle",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the name of Moses' sister who watched over him as a baby?",
+    "option_a": "Miriam",
+    "option_b": "Deborah",
+    "option_c": "Hannah",
+    "option_d": "Esther",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who did Abraham consider God offering as a sacrifice before God stopped him?",
+    "option_a": "Isaac",
+    "option_b": "Ishmael",
+    "option_c": "Jacob",
+    "option_d": "Joseph",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which two Israelite spies trusted God and gave a positive report of the Promised Land?",
+    "option_a": "Joshua and Caleb",
+    "option_b": "Moses and Aaron",
+    "option_c": "David and Jonathan",
+    "option_d": "Simon and Judas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the king of Persia who allowed the Jews to return and rebuild the temple in Jerusalem?",
+    "option_a": "Cyrus the Great",
+    "option_b": "Nebuchadnezzar",
+    "option_c": "Darius",
+    "option_d": "Xerxes",
+    "answer": "option_a"
+  },
+  {
+    "question": "What miracle did Elijah perform to help a widow and her son during a famine?",
+    "option_a": "Multiplied oil and flour",
+    "option_b": "Raised the boy from dead",
+    "option_c": "Healed the spring water",
+    "option_d": "Parted the river",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the prophet that called down fire from heaven on Israel's opponents?",
+    "option_a": "Elijah",
+    "option_b": "Elisha",
+    "option_c": "Isaiah",
+    "option_d": "Jeremiah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which book contains the vision of the New Jerusalem and the river of life?",
+    "option_a": "Revelation",
+    "option_b": "Isaiah",
+    "option_c": "Ezekiel",
+    "option_d": "Psalms",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was the Jewish queen who saved her people from destruction?",
+    "option_a": "Esther",
+    "option_b": "Ruth",
+    "option_c": "Deborah",
+    "option_d": "Miriam",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was rolled away from Jesus' tomb when He rose from the dead?",
+    "option_a": "Stone",
+    "option_b": "Curtain",
+    "option_c": "Spear",
+    "option_d": "Donkey",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who is the 'rock' on which Jesus said He would build His church?",
+    "option_a": "Peter",
+    "option_b": "John",
+    "option_c": "James",
+    "option_d": "Paul",
+    "answer": "option_a"
+  },
+  {
+    "question": "What did God provide as food each day for the Israelites in the wilderness?",
+    "option_a": "Manna",
+    "option_b": "Bread",
+    "option_c": "Quail",
+    "option_d": "Meat",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who served God in the temple until he died at age 84 after seeing the infant Jesus?",
+    "option_a": "Simeon",
+    "option_b": "Zechariah",
+    "option_c": "Joseph",
+    "option_d": "Anna",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which New Testament book is the longest epistle by word count?",
+    "option_a": "1 Corinthians",
+    "option_b": "Romans",
+    "option_c": "Matthew",
+    "option_d": "Revelation",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which river did Joshua part to bring the Israelites into the Promised Land?",
+    "option_a": "Jordan River",
+    "option_b": "Red Sea",
+    "option_c": "Nile",
+    "option_d": "Euphrates",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which judge of Israel sent soldiers with trumpets and jars of oil to defeat an army at night?",
+    "option_a": "Gideon",
+    "option_b": "Samson",
+    "option_c": "Ehud",
+    "option_d": "Deborah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who dreamed of seven fat cows and seven lean cows in Egypt?",
+    "option_a": "Pharaoh",
+    "option_b": "Joseph",
+    "option_c": "Nebuchadnezzar",
+    "option_d": "Daniel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who interpreted Pharaoh's dream of seven fat cows and seven lean cows?",
+    "option_a": "Joseph",
+    "option_b": "Daniel",
+    "option_c": "Moses",
+    "option_d": "Isaiah",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened to Lot's wife when she looked back at Sodom?",
+    "option_a": "She became a pillar of salt",
+    "option_b": "She was blinded",
+    "option_c": "She fled safely",
+    "option_d": "She turned into dust",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which book is the shortest in the Old Testament by number of chapters?",
+    "option_a": "Obadiah",
+    "option_b": "Joel",
+    "option_c": "Nahum",
+    "option_d": "Haggai",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened when Elijah prayed for an end to the long drought in Israel?",
+    "option_a": "Rain began to fall",
+    "option_b": "Fire fell from heaven",
+    "option_c": "The river dried up",
+    "option_d": "Angels appeared",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which prophet is nicknamed the 'weeping prophet'?",
+    "option_a": "Jeremiah",
+    "option_b": "Isaiah",
+    "option_c": "Ezekiel",
+    "option_d": "Daniel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which New Testament figure's name means 'son of encouragement'?",
+    "option_a": "Barnabas",
+    "option_b": "Timothy",
+    "option_c": "Silas",
+    "option_d": "Felix",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament prophet was instructed to marry a prostitute to symbolize Israel's unfaithfulness?",
+    "option_a": "Hosea",
+    "option_b": "Amos",
+    "option_c": "Jeremiah",
+    "option_d": "Elisha",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which queen visited King Solomon to test his wisdom with difficult questions?",
+    "option_a": "Queen of Sheba",
+    "option_b": "Queen Esther",
+    "option_c": "Queen Jezebel",
+    "option_d": "Queen Bathsheba",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Gospel ends with the Great Commission to 'go and make disciples of all nations'?",
+    "option_a": "Matthew",
+    "option_b": "Mark",
+    "option_c": "Luke",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did God take to create the world?",
+    "option_a": "Six",
+    "option_b": "Seven",
+    "option_c": "Five",
+    "option_d": "Four",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of creation were animals of the sea and sky created?",
+    "option_a": "Day 5",
+    "option_b": "Day 3",
+    "option_c": "Day 6",
+    "option_d": "Day 4",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of creation was man created according to Genesis?",
+    "option_a": "Day 6",
+    "option_b": "Day 5",
+    "option_c": "Day 7",
+    "option_d": "Day 4",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days and nights did it rain during the flood of Noah?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "30",
+    "option_d": "20",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many brothers did Joseph have?",
+    "option_a": "11",
+    "option_b": "12",
+    "option_c": "10",
+    "option_d": "9",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many years did the Israelites wander in the wilderness before reaching the Promised Land?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "10",
+    "option_d": "20",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many years old was Abraham when Isaac was born?",
+    "option_a": "100",
+    "option_b": "75",
+    "option_c": "90",
+    "option_d": "50",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did Jesus fast in the wilderness before being tempted?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many loaves of bread and fish did the boy have when Jesus fed the 5,000?",
+    "option_a": "Five loaves and two fish",
+    "option_b": "Seven loaves and five fish",
+    "option_c": "Three loaves and two fish",
+    "option_d": "Four loaves and four fish",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many books of prophecy are there in the Old Testament (major and minor prophets combined)?",
+    "option_a": "17",
+    "option_b": "12",
+    "option_c": "16",
+    "option_d": "18",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days after his crucifixion did Jesus rise from the dead?",
+    "option_a": "3",
+    "option_b": "7",
+    "option_c": "40",
+    "option_d": "30",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many chapters are there in the book of Genesis?",
+    "option_a": "50",
+    "option_b": "27",
+    "option_c": "40",
+    "option_d": "66",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many chapters are there in the book of Psalms?",
+    "option_a": "150",
+    "option_b": "120",
+    "option_c": "100",
+    "option_d": "75",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many times did Peter deny Jesus before the rooster crowed?",
+    "option_a": "Three",
+    "option_b": "One",
+    "option_c": "Two",
+    "option_d": "None",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many tribes of Israel were there originally (descendants of Jacob's sons)?",
+    "option_a": "12",
+    "option_b": "10",
+    "option_c": "13",
+    "option_d": "11",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many candles were on the golden lampstand (Menorah) in the Tabernacle and Temple?",
+    "option_a": "Seven",
+    "option_b": "Six",
+    "option_c": "Five",
+    "option_d": "Eight",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did Joshua and the Israelites march around Jericho before the walls fell down?",
+    "option_a": "7",
+    "option_b": "1",
+    "option_c": "3",
+    "option_d": "40",
+    "answer": "option_a"
+  },
+  {
+    "question": "What held the stone tablets of the Ten Commandments in ancient Israel?",
+    "option_a": "Ark of the Covenant",
+    "option_b": "Temple",
+    "option_c": "Tabernacle",
+    "option_d": "Rock",
+    "answer": "option_a"
+  },
+  {
+    "question": "What figures were on top of the Ark of the Covenant in the Tabernacle?",
+    "option_a": "Cherubim",
+    "option_b": "Lions",
+    "option_c": "Angels",
+    "option_d": "Eagles",
+    "answer": "option_a"
+  },
+  {
+    "question": "What portable sanctuary did God instruct the Israelites to build during their desert wanderings?",
+    "option_a": "Tabernacle",
+    "option_b": "Temple",
+    "option_c": "Synagogue",
+    "option_d": "Synod",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which item in the Tabernacle had seven lamps and provided light?",
+    "option_a": "Golden Lampstand (Menorah)",
+    "option_b": "Altar",
+    "option_c": "Table of Showbread",
+    "option_d": "Laver",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of the week do Christians traditionally celebrate Jesus' resurrection?",
+    "option_a": "Sunday",
+    "option_b": "Saturday",
+    "option_c": "Friday",
+    "option_d": "Monday",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which king of Judah destroyed the bronze serpent Moses had made because people began to worship it?",
+    "option_a": "Hezekiah",
+    "option_b": "Uzziah",
+    "option_c": "Josiah",
+    "option_d": "Ahaz",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Adam and Eve's firstborn son who killed his brother Abel?",
+    "option_a": "Cain",
+    "option_b": "Abel",
+    "option_c": "Seth",
+    "option_d": "Enoch",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was born to Adam and Eve after Abel was killed?",
+    "option_a": "Seth",
+    "option_b": "Enoch",
+    "option_c": "Cain",
+    "option_d": "Noah",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened at the Tower of Babel according to the Bible?",
+    "option_a": "God confused the language of the people",
+    "option_b": "The tower collapsed",
+    "option_c": "God burned the tower",
+    "option_d": "The people reached heaven",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the first plague God sent upon Egypt?",
+    "option_a": "Turned the Nile's water into blood",
+    "option_b": "Frogs overran the land",
+    "option_c": "Locusts",
+    "option_d": "Darkness",
+    "answer": "option_a"
+  },
+  {
+    "question": "During Jesus' baptism, a voice from heaven said 'This is my beloved Son'. Who spoke these words?",
+    "option_a": "God the Father",
+    "option_b": "Jesus",
+    "option_c": "John the Baptist",
+    "option_d": "Holy Spirit",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which devout prophetess recognized Jesus as the Messiah when he was presented at the temple as an infant?",
+    "option_a": "Anna",
+    "option_b": "Miriam",
+    "option_c": "Deborah",
+    "option_d": "Hannah",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which disciple, known as the 'beloved disciple', also wrote about love in his epistles?",
+    "option_a": "John",
+    "option_b": "Peter",
+    "option_c": "James",
+    "option_d": "Judas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which book of the Bible is a collection of hymns and prayers?",
+    "option_a": "Psalms",
+    "option_b": "Proverbs",
+    "option_c": "Revelation",
+    "option_d": "Matthew",
+    "answer": "option_a"
+  },
+  {
+    "question": "What natural force did God use to part the Red Sea so the Israelites could cross?",
+    "option_a": "A strong east wind",
+    "option_b": "An earthquake",
+    "option_c": "A pillar of fire",
+    "option_d": "The Ark of the Covenant",
+    "answer": "option_a"
+  },
+  {
+    "question": "What is the name of the garden where Jesus prayed the night before his crucifixion?",
+    "option_a": "Gethsemane",
+    "option_b": "Bethany",
+    "option_c": "Olives",
+    "option_d": "Jericho",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which island was the apostle John when he received the visions recorded in the book of Revelation?",
+    "option_a": "Patmos",
+    "option_b": "Cyprus",
+    "option_c": "Crete",
+    "option_d": "Rhodes",
+    "answer": "option_a"
+  },
+  {
+    "question": "In which town did the angel Gabriel announce to Mary that she would give birth to Jesus?",
+    "option_a": "Nazareth",
+    "option_b": "Bethlehem",
+    "option_c": "Capernaum",
+    "option_d": "Jerusalem",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which name did Jesus use to refer to the Holy Spirit, who would come after He ascended?",
+    "option_a": "Comforter (Paraclete)",
+    "option_b": "Prince of Peace",
+    "option_c": "Morning Star",
+    "option_d": "Holy Angel",
+    "answer": "option_a"
+  },
+  {
+    "question": "The Bible mentions that Barnabas was a relative of which apostle?",
+    "option_a": "Paul",
+    "option_b": "Peter",
+    "option_c": "John",
+    "option_d": "James",
+    "answer": "option_a"
+  },
+  {
+    "question": "According to Jesus in the Gospel of John, how should people worship God?",
+    "option_a": "In spirit and truth",
+    "option_b": "In temple and synagogue",
+    "option_c": "With song and dance",
+    "option_d": "With sacrifices only",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many epistles in the New Testament are attributed to Paul?",
+    "option_a": "13",
+    "option_b": "7",
+    "option_c": "9",
+    "option_d": "11",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which mountain did Moses receive the Ten Commandments from God?",
+    "option_a": "Mount Sinai",
+    "option_b": "Mount Zion",
+    "option_c": "Mount Ararat",
+    "option_d": "Mount Carmel",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened to the prophet Daniel in the lion's den?",
+    "option_a": "He was protected and unharmed",
+    "option_b": "He fought and killed the lions",
+    "option_c": "He was eaten by the lions",
+    "option_d": "He was left alone in the den",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Gospel begins with the genealogy of Jesus tracing His lineage to David and Abraham?",
+    "option_a": "Matthew",
+    "option_b": "Mark",
+    "option_c": "Luke",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "What are the first four books of the New Testament (Matthew, Mark, Luke, John) collectively called?",
+    "option_a": "The Gospels",
+    "option_b": "The Pentateuch",
+    "option_c": "The Epistles",
+    "option_d": "The Parables",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which prophet foretold that a virgin would conceive and bear a son to be called Immanuel?",
+    "option_a": "Isaiah",
+    "option_b": "Jeremiah",
+    "option_c": "Ezekiel",
+    "option_d": "Daniel",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the original name of the apostle Paul before his conversion?",
+    "option_a": "Saul",
+    "option_b": "Simon",
+    "option_c": "Peter",
+    "option_d": "Barnabas",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which brother of Jesus wrote a New Testament epistle and became a leader of the Jerusalem church?",
+    "option_a": "Jude",
+    "option_b": "James",
+    "option_c": "Simon",
+    "option_d": "John",
+    "answer": "option_b"
+  },
+  {
+    "question": "Who was the priest-king of Salem who blessed Abraham in Genesis?",
+    "option_a": "Melchizedek",
+    "option_b": "Aaron",
+    "option_c": "Phinehas",
+    "option_d": "Saul",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened when the prophet Elijah prayed for an end to the long drought in Israel?",
+    "option_a": "Rain began to fall",
+    "option_b": "Fire fell from heaven",
+    "option_c": "The river dried up",
+    "option_d": "Angels appeared",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which prophet is nicknamed the 'weeping prophet'?",
+    "option_a": "Jeremiah",
+    "option_b": "Isaiah",
+    "option_c": "Ezekiel",
+    "option_d": "Daniel",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which New Testament figure's name means 'son of encouragement'?",
+    "option_a": "Barnabas",
+    "option_b": "Timothy",
+    "option_c": "Silas",
+    "option_d": "Felix",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Old Testament prophet was instructed to marry a prostitute to symbolize Israel's unfaithfulness?",
+    "option_a": "Hosea",
+    "option_b": "Amos",
+    "option_c": "Jeremiah",
+    "option_d": "Elisha",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which queen visited King Solomon to test his wisdom with difficult questions?",
+    "option_a": "Queen of Sheba",
+    "option_b": "Queen Esther",
+    "option_c": "Queen Jezebel",
+    "option_d": "Queen Bathsheba",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which Gospel ends with the Great Commission to 'go and make disciples of all nations'?",
+    "option_a": "Matthew",
+    "option_b": "Mark",
+    "option_c": "Luke",
+    "option_d": "John",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did God take to create the world?",
+    "option_a": "Six",
+    "option_b": "Seven",
+    "option_c": "Five",
+    "option_d": "Four",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of creation were animals of the sea and sky created?",
+    "option_a": "Day 5",
+    "option_b": "Day 3",
+    "option_c": "Day 6",
+    "option_d": "Day 4",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of creation was man created according to Genesis?",
+    "option_a": "Day 6",
+    "option_b": "Day 5",
+    "option_c": "Day 7",
+    "option_d": "Day 4",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days and nights did it rain during the flood of Noah?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "30",
+    "option_d": "20",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many brothers did Joseph have?",
+    "option_a": "11",
+    "option_b": "12",
+    "option_c": "10",
+    "option_d": "9",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many years did the Israelites wander in the wilderness before reaching the Promised Land?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "10",
+    "option_d": "20",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many years old was Abraham when Isaac was born?",
+    "option_a": "100",
+    "option_b": "75",
+    "option_c": "90",
+    "option_d": "50",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did Jesus fast in the wilderness before being tempted?",
+    "option_a": "40",
+    "option_b": "7",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many loaves of bread and fish did the boy have when Jesus fed the 5,000?",
+    "option_a": "Five loaves and two fish",
+    "option_b": "Seven loaves and five fish",
+    "option_c": "Three loaves and two fish",
+    "option_d": "Four loaves and four fish",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many books of prophecy are there in the Old Testament (major and minor prophets combined)?",
+    "option_a": "17",
+    "option_b": "12",
+    "option_c": "16",
+    "option_d": "18",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days after his crucifixion did Jesus rise from the dead?",
+    "option_a": "3",
+    "option_b": "7",
+    "option_c": "40",
+    "option_d": "30",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many chapters are there in the book of Genesis?",
+    "option_a": "50",
+    "option_b": "27",
+    "option_c": "40",
+    "option_d": "66",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many chapters are there in the book of Psalms?",
+    "option_a": "150",
+    "option_b": "120",
+    "option_c": "100",
+    "option_d": "75",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many times did Peter deny Jesus before the rooster crowed?",
+    "option_a": "Three",
+    "option_b": "One",
+    "option_c": "Two",
+    "option_d": "None",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many tribes of Israel were there originally (descendants of Jacob's sons)?",
+    "option_a": "12",
+    "option_b": "10",
+    "option_c": "13",
+    "option_d": "11",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many candles were on the golden lampstand (Menorah) in the Tabernacle and Temple?",
+    "option_a": "Seven",
+    "option_b": "Six",
+    "option_c": "Five",
+    "option_d": "Eight",
+    "answer": "option_a"
+  },
+  {
+    "question": "How many days did Joshua and the Israelites march around Jericho before the walls fell down?",
+    "option_a": "7",
+    "option_b": "1",
+    "option_c": "3",
+    "option_d": "40",
+    "answer": "option_a"
+  },
+  {
+    "question": "What held the stone tablets of the Ten Commandments in ancient Israel?",
+    "option_a": "Ark of the Covenant",
+    "option_b": "Temple",
+    "option_c": "Tabernacle",
+    "option_d": "Rock",
+    "answer": "option_a"
+  },
+  {
+    "question": "What figures were on top of the Ark of the Covenant in the Tabernacle?",
+    "option_a": "Cherubim",
+    "option_b": "Lions",
+    "option_c": "Angels",
+    "option_d": "Eagles",
+    "answer": "option_a"
+  },
+  {
+    "question": "What portable sanctuary did God instruct the Israelites to build during their desert wanderings?",
+    "option_a": "Tabernacle",
+    "option_b": "Temple",
+    "option_c": "Synagogue",
+    "option_d": "Synod",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which item in the Tabernacle had seven lamps and provided light?",
+    "option_a": "Golden Lampstand (Menorah)",
+    "option_b": "Altar",
+    "option_c": "Table of Showbread",
+    "option_d": "Laver",
+    "answer": "option_a"
+  },
+  {
+    "question": "On which day of the week do Christians traditionally celebrate Jesus' resurrection?",
+    "option_a": "Sunday",
+    "option_b": "Saturday",
+    "option_c": "Friday",
+    "option_d": "Monday",
+    "answer": "option_a"
+  },
+  {
+    "question": "Which king of Judah destroyed the bronze serpent Moses had made because people began to worship it?",
+    "option_a": "Hezekiah",
+    "option_b": "Uzziah",
+    "option_c": "Josiah",
+    "option_d": "Ahaz",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was Adam and Eve's firstborn son who killed his brother Abel?",
+    "option_a": "Cain",
+    "option_b": "Abel",
+    "option_c": "Seth",
+    "option_d": "Enoch",
+    "answer": "option_a"
+  },
+  {
+    "question": "Who was born to Adam and Eve after Abel was killed?",
+    "option_a": "Seth",
+    "option_b": "Enoch",
+    "option_c": "Cain",
+    "option_d": "Noah",
+    "answer": "option_a"
+  },
+  {
+    "question": "What happened at the Tower of Babel according to the Bible?",
+    "option_a": "God confused the language of the people",
+    "option_b": "The tower collapsed",
+    "option_c": "God burned the tower",
+    "option_d": "The people reached heaven",
+    "answer": "option_a"
+  },
+  {
+    "question": "What was the first plague God sent upon Egypt?",
+    "option_a": "Turned the Nile's water into blood",
+    "option_b": "Frogs overran the land",
+    "option_c": "Locusts",
+    "option_d": "Darkness",
+    "answer": "option_a"
+  }
+]
