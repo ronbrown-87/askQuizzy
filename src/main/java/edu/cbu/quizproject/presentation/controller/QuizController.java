@@ -1,5 +1,9 @@
 package edu.cbu.quizproject.presentation.controller;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
 import edu.cbu.quizproject.core.model.Question;
 import edu.cbu.quizproject.core.model.QuizState;
 import edu.cbu.quizproject.core.service.QuizService;
@@ -7,10 +11,6 @@ import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Platform;
 import javafx.util.Duration;
-
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
 public class QuizController {
     private int currentQuestionIndex = 1; 
@@ -27,6 +27,7 @@ public class QuizController {
     private Runnable onQuizEnd;
     private boolean hasRestorableState = false;
     private Runnable onStateRestored;
+    private boolean timerPaused = false;
 
 
     public QuizController() {
@@ -106,13 +107,15 @@ public class QuizController {
     
     private void startTimer() {
         timer = new Timeline(new KeyFrame(Duration.seconds(1), event -> {
-            timeRemaining--;
-            if (onTimerUpdate != null) {
-                Platform.runLater(() -> onTimerUpdate.run());
-            }
-            
-            if (timeRemaining <= 0) {
-                endQuiz();
+            if (!timerPaused) {
+                timeRemaining--;
+                if (onTimerUpdate != null) {
+                    Platform.runLater(() -> onTimerUpdate.run());
+                }
+                
+                if (timeRemaining <= 0) {
+                    endQuiz();
+                }
             }
         }));
         timer.setCycleCount(Timeline.INDEFINITE);
@@ -139,6 +142,9 @@ public class QuizController {
             score--;
         }
 
+        // Pause timer after answering
+        timerPaused = true;
+
         if (currentQuestionIndex == totalQuestions) {
             endQuiz();
         }
@@ -157,6 +163,8 @@ public class QuizController {
         if (currentQuestionIndex < totalQuestions && !quizEnded) {
             currentQuestionIndex++;
             resetTimer();
+            // Resume timer when moving to next question
+            timerPaused = false;
         }
     }
     
@@ -164,6 +172,8 @@ public class QuizController {
         if (currentQuestionIndex > 1 && !quizEnded) {
             currentQuestionIndex--;
             resetTimer();
+            // Resume timer when moving to previous question
+            timerPaused = false;
         }
     }
     
@@ -171,6 +181,8 @@ public class QuizController {
         if (questionNumber >= 1 && questionNumber <= totalQuestions && !quizEnded) {
             currentQuestionIndex = questionNumber;
             resetTimer();
+            // Resume timer when jumping to any question
+            timerPaused = false;
         }
     }
     
