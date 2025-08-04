@@ -152,6 +152,12 @@ public class QuizScreen {
     
     private void showScoreScreen() {
         ScoreScreen scoreScreen = new ScoreScreen();
+        scoreScreen.setOnRestartClicked(() -> {
+            // Create a new quiz controller and screen for a fresh start
+            QuizController newController = new QuizController();
+            QuizScreen newQuizScreen = new QuizScreen(newController);
+            newQuizScreen.show(stage);
+        });
         scoreScreen.show(stage, controller.getScore(), controller.getTotalQuestions());
     }
 }
